@@ -1,0 +1,25 @@
+{
+  "name": "lodown-samsung329",
+  "version": "1.0.0",
+  "description": "An npm functional programming library project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samsung329/lodown.git"
+  },
+  "keywords": [
+    "lodown"
+  ],
+  "author": "Samsung329",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samsung329/lodown/issues"
+  },
+  "homepage": "https://github.com/Samsung329/lodown#readme"
+}
